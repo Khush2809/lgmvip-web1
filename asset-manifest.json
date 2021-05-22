@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/theyuvaunityfoundation/static/css/main.98bd6ea0.chunk.css",
-    "main.js": "/theyuvaunityfoundation/static/js/main.0014566d.chunk.js",
-    "main.js.map": "/theyuvaunityfoundation/static/js/main.0014566d.chunk.js.map",
+    "main.css": "/theyuvaunityfoundation/static/css/main.6b15b7d5.chunk.css",
+    "main.js": "/theyuvaunityfoundation/static/js/main.a49dcdc7.chunk.js",
+    "main.js.map": "/theyuvaunityfoundation/static/js/main.a49dcdc7.chunk.js.map",
     "runtime-main.js": "/theyuvaunityfoundation/static/js/runtime-main.222a04f7.js",
     "runtime-main.js.map": "/theyuvaunityfoundation/static/js/runtime-main.222a04f7.js.map",
     "static/css/2.800be05e.chunk.css": "/theyuvaunityfoundation/static/css/2.800be05e.chunk.css",
-    "static/js/2.728e2ad5.chunk.js": "/theyuvaunityfoundation/static/js/2.728e2ad5.chunk.js",
-    "static/js/2.728e2ad5.chunk.js.map": "/theyuvaunityfoundation/static/js/2.728e2ad5.chunk.js.map",
+    "static/js/2.9c9b0239.chunk.js": "/theyuvaunityfoundation/static/js/2.9c9b0239.chunk.js",
+    "static/js/2.9c9b0239.chunk.js.map": "/theyuvaunityfoundation/static/js/2.9c9b0239.chunk.js.map",
     "index.html": "/theyuvaunityfoundation/index.html",
     "static/css/2.800be05e.chunk.css.map": "/theyuvaunityfoundation/static/css/2.800be05e.chunk.css.map",
-    "static/css/main.98bd6ea0.chunk.css.map": "/theyuvaunityfoundation/static/css/main.98bd6ea0.chunk.css.map",
-    "static/js/2.728e2ad5.chunk.js.LICENSE.txt": "/theyuvaunityfoundation/static/js/2.728e2ad5.chunk.js.LICENSE.txt",
+    "static/css/main.6b15b7d5.chunk.css.map": "/theyuvaunityfoundation/static/css/main.6b15b7d5.chunk.css.map",
+    "static/js/2.9c9b0239.chunk.js.LICENSE.txt": "/theyuvaunityfoundation/static/js/2.9c9b0239.chunk.js.LICENSE.txt",
+    "static/media/EDYU1.2f1857c9.jpg": "/theyuvaunityfoundation/static/media/EDYU1.2f1857c9.jpg",
     "static/media/EduIcon.6ab8d315.png": "/theyuvaunityfoundation/static/media/EduIcon.6ab8d315.png",
     "static/media/EnvIcon.2dbb9cd0.png": "/theyuvaunityfoundation/static/media/EnvIcon.2dbb9cd0.png",
     "static/media/donateR.e7c12f82.gif": "/theyuvaunityfoundation/static/media/donateR.e7c12f82.gif",
@@ -27,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.222a04f7.js",
     "static/css/2.800be05e.chunk.css",
-    "static/js/2.728e2ad5.chunk.js",
-    "static/css/main.98bd6ea0.chunk.css",
-    "static/js/main.0014566d.chunk.js"
+    "static/js/2.9c9b0239.chunk.js",
+    "static/css/main.6b15b7d5.chunk.css",
+    "static/js/main.a49dcdc7.chunk.js"
   ]
 }
