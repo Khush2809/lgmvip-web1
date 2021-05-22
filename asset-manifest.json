@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/theyuvaunityfoundation/static/css/main.6b15b7d5.chunk.css",
-    "main.js": "/theyuvaunityfoundation/static/js/main.69dbbfa6.chunk.js",
-    "main.js.map": "/theyuvaunityfoundation/static/js/main.69dbbfa6.chunk.js.map",
+    "main.js": "/theyuvaunityfoundation/static/js/main.b32f8e06.chunk.js",
+    "main.js.map": "/theyuvaunityfoundation/static/js/main.b32f8e06.chunk.js.map",
     "runtime-main.js": "/theyuvaunityfoundation/static/js/runtime-main.222a04f7.js",
     "runtime-main.js.map": "/theyuvaunityfoundation/static/js/runtime-main.222a04f7.js.map",
     "static/css/2.800be05e.chunk.css": "/theyuvaunityfoundation/static/css/2.800be05e.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.800be05e.chunk.css",
     "static/js/2.9c9b0239.chunk.js",
     "static/css/main.6b15b7d5.chunk.css",
-    "static/js/main.69dbbfa6.chunk.js"
+    "static/js/main.b32f8e06.chunk.js"
   ]
 }
