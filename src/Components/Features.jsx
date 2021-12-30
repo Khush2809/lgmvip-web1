@@ -12,17 +12,26 @@ const Features = () => {
   return (
     <div className="feature-container">
       <div className="upper-container">
-        <div>
+        <div className="d-flex justify-content-center">
           <h4>FEATURES</h4>
         </div>
-        <div>
-          <p className="tagline1">
-            Your Experience Gets Better And Better Over Time.
+        <div className="d-flex justify-content-center">
+          <p className="d-flex justify-content-center tagline1">
+            Your Experience Gets Better
           </p>
         </div>
-        <div>
-          <p className="tagline2">
+        <div className="d-flex justify-content-center">
+          <p className="d-flex justify-content-center tagline3">
+            And Better Over Time.
+          </p>
+        </div>
+        <div className="d-flex justify-content-center">
+          <p className="d-flex justify-content-center tagline2">
             There are many variations of passages of Lorem Ipsum available, but
+          </p>
+        </div>
+        <div className="d-flex justify-content-center">
+          <p className="d-flex justify-content-center tagline4">
             the majority have suffered alteration in some form.
           </p>
         </div>
@@ -77,7 +86,7 @@ const Features = () => {
                   {" "}
                   <MdOutlineSecurity />
                 </div>
-                <p className="feature-heading">Push to Deploy</p>
+                <p className="feature-heading">Advanced Security</p>
                 <p className="feature-content">
                   It is a long established fact that a reader will be distracted
                   by the readable content of a page at its layout.
@@ -90,7 +99,7 @@ const Features = () => {
                   {" "}
                   <FiSettings />
                 </div>
-                <p className="feature-heading">SSL Certificates</p>
+                <p className="feature-heading">Powerful API</p>
                 <p className="feature-content">
                   It is a long established fact that a reader will be distracted
                   by the readable content of a page at its layout.
@@ -103,7 +112,7 @@ const Features = () => {
                   {" "}
                   <SiDatabricks />
                 </div>
-                <p className="feature-heading">Simple Queues</p>
+                <p className="feature-heading">Database Backups</p>
                 <p className="feature-content">
                   It is a long established fact that a reader will be distracted
                   by the readable content of a page at its layout.
